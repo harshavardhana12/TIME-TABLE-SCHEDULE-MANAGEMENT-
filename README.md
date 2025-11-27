@@ -1,4 +1,13 @@
+# Time Table & Schedule Management System (C Language)
 
+A simple console-based time table & schedule manager written in C.  
+This program allows users to add, view, update, and delete scheduled tasks.
+
+
+
+✅  Abstract ##
+
+The Time Table & Schedule Management System is a console-based program written in C to help users organize and manage daily tasks. The system allows users to add, view, update, and delete scheduled entries stored in a text file, ensuring persistent data storage. This project demonstrates file handling, string manipulation, and structured programming concep
 
 ---
 
@@ -126,6 +135,4 @@ Task Deleted Successfully!
 ## ✔ Author  
 Created for academic & project use.
 
-✅ 3. Abstract
 
-The Time Table & Schedule Management System is a console-based program written in C to help users organize and manage daily tasks. The system allows users to add, view, update, and delete scheduled entries stored in a text file, ensuring persistent data storage. This project demonstrates file handling, string manipulation, and structured programming concep
